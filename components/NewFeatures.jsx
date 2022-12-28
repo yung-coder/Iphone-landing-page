@@ -1,9 +1,7 @@
-'use client';
+const NewFeatures = () => (
+  <div>
+    New Features
+  </div>
+);
 
-const NewFeatures = () => {
-  return (
-    <div>NewFeatures</div>
-  )
-}
-
-export default NewFeatures
+export default NewFeatures;

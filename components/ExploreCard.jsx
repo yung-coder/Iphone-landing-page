@@ -1,10 +1,9 @@
-'use clinet';
+'use client';
 
+const ExploreCard = () => (
+  <div>
+    Explore Card
+  </div>
+);
 
-const ExploreCard = () => {
-  return (
-    <div>ExploreCard</div>
-  )
-}
-
-export default ExploreCard
+export default ExploreCard;

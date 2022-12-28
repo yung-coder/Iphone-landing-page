@@ -1,9 +1,9 @@
-'use clinet';
+'use client';
 
-const Navbar = () => {
-  return (
-    <div>Navbar</div>
-  )
-}
+const Navbar = () => (
+  <nav>
+    navbar
+  </nav>
+);
 
-export default Navbar
+export default Navbar;

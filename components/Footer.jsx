@@ -1,10 +1,9 @@
-'use clinet';
+'use client';
 
+const Footer = () => (
+  <footer>
+    footer
+  </footer>
+);
 
-const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
-}
-
-export default Footer
+export default Footer;
