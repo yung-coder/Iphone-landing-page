@@ -1,5 +1,4 @@
 import "../styles/globals.css";
-import Header from "./Header";
 const RootLayout = ({ children }) => (
   <html lang="en">
     <head>
@@ -10,7 +9,6 @@ const RootLayout = ({ children }) => (
       />
     </head>
     <body>
-      <Header />
       {children}
     </body>
   </html>
