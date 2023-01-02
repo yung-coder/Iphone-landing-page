@@ -1,7 +1,7 @@
 'use client';
 
 const ExploreCard = () => (
-  <div>
+  <div className="text-black">
     Explore Card
   </div>
 );
