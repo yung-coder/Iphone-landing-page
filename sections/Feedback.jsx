@@ -22,15 +22,14 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">
-            Sam
+            Steve Jobs
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">
             Founder | Apple
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          Grievance process is in relation to the “Information Technology
-          (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021”.
+        We at Apple had forgotten who we were. One way to remember who you are is to remember who your heroes are.
         </p>
       </motion.div>
 
@@ -39,7 +38,7 @@ const Feedback = () => (
         className="relative flex-1 flex justify-center items-center"
       >
         <img
-          src="/planet-09.png"
+          src="/apple-logo.jpg"
           alt="09"
           className="w-full lg:h-[610px]h-auto min-h-[210px] object-cover rounded-[40px]"
         />

@@ -19,8 +19,7 @@ const Insights = () => (
       viewport={{ once: "false", amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex  flex-col `}
     >
-      <TypingText title="Insight" textStyles="text-center" />
-      <TitleText title="Insights about us" textStyles="text-center" />
+      <TitleText title="Have even more fun with your iPhone" textStyles="text-center" />
       <div className="mt-[50px] flex flex-col gap-[30px]">
         {insights.map((insight, index) => {
           return (

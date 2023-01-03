@@ -44,22 +44,22 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: "/planet-06.png",
-    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
+    imgUrl: "/app-store.png",
+    title: "The App Store offers nearly 1.8 million apps",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "all held to the highest privacy standards",
   },
   {
-    imgUrl: "/planet-07.png",
-    title: "7 tips to easily master the madness of the Metaverse",
+    imgUrl: "/air-pods.jpg",
+    title: "AirPods Pro place sound all around you with Personalised Spatial Audio",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "Engrave the case only at Apple",
   },
   {
-    imgUrl: "/planet-08.png",
-    title: "With one platform you can explore the whole world virtually",
+    imgUrl: "/magsafe.jpeg",
+    title: "MagSafe cases and wallets let you snap on fun colours",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+      "MagSafe also gives you faster wireless charging",
   },
 ];
 
