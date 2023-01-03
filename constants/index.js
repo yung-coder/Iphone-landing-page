@@ -29,13 +29,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: "/vrpano.svg",
+    imgUrl: "/logo-apple.png",
     title: "Always-On display",
     subtitle:
       "Now your Lock Screen is always glanceable, so you don't even have to tap it to stay in the know.",
   },
   {
-    imgUrl: "/headset.svg",
+    imgUrl: "/logo-apple.png",
     title: "Dynamic Island",
     subtitle:
       "Introducing Dynamic Island, a truly Apple innovation that's hardware and software — and something in between",
